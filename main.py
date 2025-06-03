@@ -7,7 +7,7 @@ from flask import Flask, request
 API_TOKEN = import telebot
 from flask import Flask, request
 
-API_TOKEN = 'ВАШ_ТОКЕН_ОТ_БОТА'
+API_TOKEN = @ShopBonus1_bot
 
 bot = telebot.TeleBot(API_TOKEN)
 app = Flask(__name__)
